@@ -1,0 +1,3 @@
+having easy access to the entire history of a file will make you a better programmer
+you use the commands git log and git diff to view the history of files
+git allows for work within command prompt to be saved and compared with different commit points
