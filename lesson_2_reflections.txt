@@ -1,2 +1,3 @@
 git init initializes a repository with no commits
 git init turns a folder into a git repository which means that you can start tracking files and changes to those files
+ Staging area is the preparation area for files to be committed. Only files in this area are going to be included in the commit executed next time. It helps to divide changes in the working directory into several commits, each of which consists of a group of changes that represent a logical change to the relevant files.
